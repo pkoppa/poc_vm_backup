@@ -1,1 +1,1 @@
-###  PoC code for importing VMWare images to AWS
+###  PoC code for importing VMWare VMs into AWS
